@@ -1,7 +1,0 @@
-url:http://www.bixingxing.com/
-
-检测到104文件	下载完成103	下载失败1
-
-
-失败的文件列表：
-https://hm.baidu.com/hm.js?06cdbc1dd4abed25d0ef1583efe5d3fc
