@@ -963,6 +963,41 @@ body {
     list-style: none
 }
 
+
+.email {
+	position: absolute;
+	left: 0;
+	bottom: 140px;
+	width: 100%;
+	height: 20px;
+	color: #909090;
+	font-size: 12px;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-justify-content: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-webkit-align-items: center;
+	-ms-flex-align: center;
+	align-items: center
+}
+.email a {
+	text-decoration: none;
+    color: #b4b6b6;
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+
+.email p {
+    text-align: center;
+    color: #909090;
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+
+
+
 @media screen and (max-width:768px) {
     .sidebar-menu .main-menu {
         margin-top: 10px;
